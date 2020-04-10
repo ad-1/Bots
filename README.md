@@ -1,4 +1,7 @@
-## Instagram Automation
+# Bots
+
+
+## 1. InstaBot
 
 Using python to automate basic user activity for the app Instagram.
 
